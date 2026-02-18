@@ -13,7 +13,7 @@
     "@coreui/coreui": "^4.3.0",
     "@coreui/react": "^4.3.0",
     "@coreui/icons": "^3.0.1",
-    "@coreui/icons-react": "^3.0.1",
+    "@coreui/icons-react": "^2.3.0",
     "@supabase/supabase-js": "^2.39.0",
     "@tanstack/react-query": "^5.17.0",
     "react": "^18.2.0",
